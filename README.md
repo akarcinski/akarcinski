@@ -1,4 +1,4 @@
-### Hi, Andrzej here! 👋
+### Hi, I'm Andrzej 👋
 
 I'm a second-year Computer Science student at the AGH. 
 I'm keen on algorithms and math, which I use in my projects.

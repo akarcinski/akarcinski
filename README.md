@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, Andrzej here! 👋
+
+I'm a second-year Computer Science student at the AGH. 
+I'm keen on algorithms and math, which I use in my projects.
 
 <!--
 **akarcinski/akarcinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+I am a second-year university student and programming enthusiast. I love math and computer science
 -->
